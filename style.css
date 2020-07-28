@@ -1,25 +1,26 @@
 .button{
     padding: 0px 20px;
-    margin-right: 1px;
-    width: 90px;
+    width: 19.40%;
     height: 60px;
     text-align: center;
     background-color: white;
+    margin:0px;
+    
 }
 #display-box{
-    width: 376px;
+    width:80%;
     height: 80px;
     border: 1px solid gray;
 }
 body{
     background-color: rgb(182, 244, 248);}
     #c{
-        width: 186px;
+        width: 39.6%;
         background-color: tomato;
         height: 80px;
     }
     #equal-sign{
-        width: 186px;
+        width: 39.6%;
         background-color: yellow;
         height: 80px;
     }
@@ -36,6 +37,6 @@ body{
         background-color: slategray;
     }
     .marginn{
-        margin-top: 200px;
+        margin-top: 150px;
         margin-bottom: 20px;
     }

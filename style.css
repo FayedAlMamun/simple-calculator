@@ -1,0 +1,40 @@
+.button{
+    padding: 0px 20px;
+    margin-right: 1px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    background-color: white;
+}
+#display-box{
+    width: 376px;
+    height: 80px;
+    border: 1px solid gray;
+}
+body{
+    background-color: rgb(182, 244, 248);}
+    #c{
+        width: 186px;
+        background-color: tomato;
+        height: 80px;
+    }
+    #equal-sign{
+        width: 186px;
+        background-color: yellow;
+        height: 80px;
+    }
+    #division{
+        background-color: skyblue ;
+    }
+    #mul{
+        background-color: slategray;
+    }
+    #sum{
+        background-color: skyblue;
+    }
+    #sub{
+        background-color: slategray;
+    }
+    .marginn{
+        margin-top: 200px;
+    }
